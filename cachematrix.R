@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## This class contains 2 functions, makeCacheMatrix and cacheSolve.
+## This pair of functions will inverse the matrix and keep it in Cache.
 
 ## Write a short comment describing this function
 
